@@ -1,0 +1,43 @@
+.slide {
+  height: 100vh;
+  text-align: center;
+}
+
+.content {
+  height: 100%;
+  /* width: 100%; */
+  background-color: white;
+  padding: 20px 20px 0px 20px;
+}
+
+.nav {
+  height: 10%;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  /* padding: 20px 0px 0px 0px; */
+}
+
+.landingButton {
+  height: 50px;
+  width: 50%;
+  background-color: #000a12 !important;
+}
+
+.button {
+  height: 100%;
+  width: 30%;
+  background-color: #000a12 !important;
+}
+
+.logo {
+  height: 30%;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+header {
+  text-align: center;
+}
